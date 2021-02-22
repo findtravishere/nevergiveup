@@ -3,6 +3,8 @@
 To run:
 
 ```bash
+git clone https://github.com/findtravishere/nevergiveup
+cd nevergiveup
 chmod 755 nevergiveup.sh
 ./nevergiveup.sh
 ```
