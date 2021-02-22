@@ -3,7 +3,7 @@
 To run:
 
 ```bash
-chmod 755 nevergive.up.sh
+chmod 755 nevergiveup.sh
 ./nevergiveup.sh
 ```
 
